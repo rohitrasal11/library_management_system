@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html,body {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow-x: hidden;
+}
+
+
+.form-control input{
+    width: 75%;
+}
+#form-layout .container{
+    
+    background-color: #55aab9 ;
+    padding: 20px 20px;
+}
+.md-form-manual{
+    margin: 20px 200px;
+}
+#form-layout input{
+    width: 100%;
+    margin: 5px 0;
+}
+.form-label{
+    margin-top: 30px;
+}
